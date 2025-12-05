@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "わたくしごと",
+  "base_artist": "こっちのけんと",
+  "createdAt": "2025-12-05T15:39:05.622901Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "わたくしごと",
+      "artist": "こっちのけんと",
+      "has_synced": false,
+      "path": "select/pl_01_わたくしごと_こっちのけんと.txt"
+    }
+  ]
+}
